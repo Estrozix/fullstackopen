@@ -17,8 +17,7 @@ const App = () => {
         exercises: 14
       }
     ]
-  }
-  
+  } 
 
   return (
     <div>
